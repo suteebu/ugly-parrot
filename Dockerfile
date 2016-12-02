@@ -1,2 +1,2 @@
-FROM ubuntu:latest
+FROM alpine:latest
 RUN echo hello world!
